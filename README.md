@@ -86,8 +86,28 @@
 
 ## Screenshots
 
+<div align="center">
 
+### Authentication & Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd6c1b83-d58b-4fa7-8a18-2d0183cf280c" alt="Login Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b4c254f2-e51e-4e22-bddb-facb8c9c538a" alt="Dashboard" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5421b277-b8b0-48ec-befe-1d343a7d2e3a" alt="Balance View" width="250"/>
+</p>
 
+### Transactions
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/385816a4-b54e-47b4-8799-565a1a7b6518" alt="Transfer Money" width="250"/>
+  <img src="https://github.com/user-attachments/assets/fdd2971a-a435-4f1e-8edc-fff2494df9ec" alt="Transaction History" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a1f7055d-dbaa-401d-89dd-218f39a5ae3d" alt="Transaction Details" width="250"/>
+</p>
+
+### Settings & Features
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/522a778d-0afa-45e8-999e-3fb08b5ae4d3" alt="Settings" width="250"/>
+</p>
+
+</div>
 ---
 
 ## Tech Stack
