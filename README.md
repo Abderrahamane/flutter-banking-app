@@ -84,23 +84,13 @@
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
-<div align="center">
 
-| Login Screen | Dashboard | Transfer Money |
-|:---:|:---:|:---:|
-| ![Login](https://via.placeholder.com/250x500/4285F4/FFFFFF?text=Login) | ![Dashboard](https://via.placeholder.com/250x500/34A853/FFFFFF?text=Dashboard) | ![Transfer](https://via.placeholder.com/250x500/FBBC04/FFFFFF?text=Transfer) |
-
-| Transaction History | Settings | Currency Converter |
-|:---:|:---:|:---:|
-| ![History](https://via.placeholder.com/250x500/EA4335/FFFFFF?text=History) | ![Settings](https://via.placeholder.com/250x500/673AB7/FFFFFF?text=Settings) | ![Converter](https://via.placeholder.com/250x500/FF6D00/FFFFFF?text=Converter) |
-
-</div>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework:** Flutter
@@ -638,12 +628,12 @@ SOFTWARE.
 
 ## Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/minibank?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/minibank?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/minibank)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/minibank)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/minibank)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/minibank)
+![GitHub stars](https://img.shields.io/github/stars/Abderrahamane/flutter-banking-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abderrahamane/flutter-banking-app?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Abderrahamane/flutter-banking-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Abderrahamane/flutter-banking-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/Abderrahamane/flutter-banking-app)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abderrahamane/flutter-banking-app)
 
 ---
 
